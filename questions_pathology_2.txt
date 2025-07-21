@@ -1,0 +1,189 @@
+Q: Which of the following is listed as a benign tumor of the lips, mouth, and tongue?
+   A: Squamous cell carcinoma
+   B: Malignant melanoma
+   C: Haemangioma
+   D: Sarcoma
+Answer: C
+
+Q: Leukoplakia is defined as a white lesion of the oral mucosa that:
+   A: Can be easily scraped off
+   B: Is attributed to a definable lesion
+   C: Cannot be scraped off and cannot be attributed to another definable lesion
+   D: Is always a malignant transformation
+Answer: C
+
+Q: Which of the following is classified as a malignant tumor of the salivary gland?
+   A: Pleomorphic adenoma
+   B: Warthin tumor
+   C: Mucoepidermoid carcinoma
+   D: Oncocytoma
+Answer: C
+
+Q: What is the most common benign salivary gland tumor?
+   A: Papillary cystadenoma lymphomatosum
+   B: Pleomorphic adenoma
+   C: Oncocytoma
+   D: Adenoid cystic carcinoma
+Answer: B
+
+Q: Pleomorphic adenoma typically originates from which type of cells?
+   A: Epithelial cells
+   B: Myoepithelial cells
+   C: Serous cells
+   D: Mucinous cells
+Answer: B
+
+Q: Which benign salivary gland tumor has a high recurrence rate and a risk of malignant transformation?
+   A: Pleomorphic adenoma
+   B: Papillary cystadenoma lymphomatosum
+   C: Oncocytoma
+   D: Warthin tumor
+Answer: C
+
+Q: Which malignant salivary gland tumor is characterized by a mixed histology of adenocarcinoma with mucus secretion and sheets of squamous cell carcinoma?
+   A: Adenoid cystic carcinoma
+   B: Mucoepidermoid carcinoma
+   C: Acinic adenocarcinoma
+   D: Malignant mixed tumor
+Answer: B
+
+Q: What is the prognosis described for Acinic adenocarcinoma?
+   A: Highly malignant
+   B: Intermediate
+   C: Less malignant
+   D: Benign
+Answer: C
+
+Q: Which of the following is listed as a benign tumor of the esophagus?
+   A: Carcinoma
+   B: Leiomyosarcoma
+   C: Leiomyoma
+   D: Lymphomas
+Answer: C
+
+Q: Which factor is listed as a predisposing factor for carcinoma of the esophagus?
+   A: Young age
+   B: Female sex
+   C: GERD
+   D: Low alcohol consumption
+Answer: C
+
+Q: Barrett esophagus is considered a premalignant condition due to an abnormal change in the mucosal cells lining the lower portion of the esophagus from normal stratified squamous epithelium to:
+   A: Simple cuboidal epithelium
+   B: Simple columnar epithelium with interpersed goblet cells
+   C: Pseudostratified columnar epithelium
+   D: Transitional epithelium
+Answer: B
+
+Q: Which of the following is listed as a benign tumor of the stomach?
+   A: Carcinoma
+   B: Carcinoid
+   C: Gastric adenoma
+   D: Malignant lymphoma
+Answer: C
+
+Q: Adenomatous polyps of the stomach are considered precancerous lesions, with a higher risk of carcinoma if they are larger than:
+   A: 0.5 cm
+   B: 1 cm
+   C: 2 cm
+   D: 3 cm
+Answer: C
+
+Q: What is the commonest site for gastric carcinoma?
+   A: Cardia
+   B: Fundus
+   C: Pyloric antrum
+   D: Body
+Answer: C
+
+Q: Which type of gastric carcinoma is characterized by a diffuse infiltrating pattern causing a 'leather bottle stomach' appearance?
+   A: Fungating type
+   B: Ulcerating type
+   C: Mucoid adenocarcinoma
+   D: Linitis plastica
+Answer: D
+
+Q: Which of the following is a potential complication of gastric carcinoma due to Transcoelomic spread?
+   A: Hepatic metastasis
+   B: Krukenberg's tumor (ovaries)
+   C: Brain metastasis
+   D: Virchow's sign (left supraclavicular lymph node)
+Answer: B
+
+Q: Which of the following is listed as a malignant tumor of the small intestine?
+   A: Adenoma
+   B: Leiomyoma
+   C: Carcinoid tumor
+   D: Lipoma
+Answer: C
+
+Q: Carcinoid tumors of the small intestine primarily arise from which type of cells?
+   A: Paneth cells
+   B: Goblet cells
+   C: Argentaffin cells
+   D: Enterocytes
+Answer: C
+
+Q: Which of the following complications can arise from the bioactive products released by carcinoid tumors, such as serotonin?
+   A: Hepatomegaly
+   B: Partial intestinal obstruction due to muscle hypertrophy
+   C: Bronchospasm and flushing
+   D: Recurrent bleeding
+Answer: C
+
+Q: Which type of adenomatous polyp of the large intestine is described as single, sessile, broad, large, and showing numerous papillae or fronds (cauliflower appearance)?
+   A: Tubular adenoma
+   B: Villous adenoma
+   C: Tubulo-villous adenoma
+   D: Familial polyposis syndrome
+Answer: B
+
+Q: Familial polyposis syndromes are hereditary conditions leading to hundreds of adenomatous polyps in the GIT and are considered precancerous with malignant change occurring typically within:
+   A: 1-5 years
+   B: 5-10 years
+   C: 10-20 years
+   D: 20-30 years
+Answer: C
+
+Q: Gardener's syndrome is a familial polyposis syndrome characterized by a triad of colonic adenomatous polyps, soft tissue tumors of the small intestine, and:
+   A: Brain tumors
+   B: Osteoma of mandible
+   C: Renal cysts
+   D: Thyroid nodules
+Answer: B
+
+Q: What is the incidence of colorectal carcinoma as a malignancy of the large intestine?
+   A: 50%
+   B: 75%
+   C: 95%
+   D: 100%
+Answer: C
+
+Q: Which anatomical site is the commonest (75%) for colorectal carcinoma?
+   A: Ascending colon
+   B: Transverse colon
+   C: Recto-sigmoid
+   D: Cecum
+Answer: C
+
+Q: In Duke's staging of colon cancer, which stage corresponds to tumor infiltration of the whole thickness of the intestine with a cure rate of 70%?
+   A: Stage A
+   B: Stage B
+   C: Stage C
+   D: Stage D
+Answer: B
+
+Q: According to the TNM staging, what does T3 represent for a tumor?
+   A: Tumor invades submucosa
+   B: Tumor involves muscularis propria but does not cross it
+   C: Tumor extends beyond muscularis propria into mesorectal or pericoloc fat
+   D: Tumor invades adjacent organs or perforates the visceral peritoneum
+Answer: C
+
+Q: In TNM staging, what does N2 indicate?
+   A: No nodal metastasis
+   B: 1-3 perirectal or pericolic nodes
+   C: 4 or more perirectal or pericolic nodes
+   D: Cannot be assessed
+Answer: C
+
